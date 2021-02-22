@@ -8,7 +8,7 @@ html {
 
 ::selection {
     color: #000; 
-    background: #fff2a8;
+    background: blue;
 }
 
 header {
