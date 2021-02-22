@@ -2,13 +2,13 @@ html {
     background-color: #ADF4FE ;
     font-family: 'Amatic SC';
     font-size: large;
-    color: #495057;
+    color: black;
 
 }
 
 ::selection {
     color: #000; 
-    background: blue;
+    background: #ADF4FE ;
 }
 
 header {
